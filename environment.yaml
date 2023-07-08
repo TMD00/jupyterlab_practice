@@ -1,0 +1,5 @@
+name: jupyter-env
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\tolan\miniconda3\envs\jupyter-env
